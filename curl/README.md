@@ -14,7 +14,7 @@ This PowerShell script reads hostnames from a specified file (`hostnames.txt`), 
 4. Execute the script by running:
 
     ```powershell
-    .\CheckHostnames.ps1
+    .\CheckHealth.ps1
     ```
 
 5. The script will display the status code for each HTTP request.
