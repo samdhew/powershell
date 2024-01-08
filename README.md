@@ -23,4 +23,8 @@ Clone the repository to your local environment and navigate through the script f
 
 If you have additional scripts or improvements to existing ones, we encourage you to contribute to the repository. Fork the project, make your changes, and submit a pull request. Let's collaborate to make this repository a valuable resource for the Windows community.
 
+## Disclaimer
+
+These scripts are provided as-is and without any warranty. Use them responsibly and ensure they align with your organization's policies and security practices.
+
 Happy scripting!
